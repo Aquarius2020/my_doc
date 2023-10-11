@@ -134,7 +134,8 @@ void caf_prem_v2(vector<int> &list, int k, int m) {
 void caf_prem_v3(vector<int> &list, int k, int m) {
   push({.k = k});
   while (!empty()) {
-    switch (top().status) {
+    switch (top().status) {           // status 相当于计算机中的 pc 寄存器,用于存储下一条要执行的指令的地址
+                                      // 因此,进入代码块(指令)的第一件事就是先设置当前指令执行完后下一条应该执行到哪里
     case 0:                           // 0 状态代表进入函数状态,因此,无论是否是递归进来的,初始状态必然是 0
       if (top().k == m) {
         top().status = 1;
