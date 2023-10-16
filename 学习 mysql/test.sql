@@ -1,0 +1,15 @@
+-- Active: 1697429850366@@127.0.0.1@3306@vhr
+
+DELIMITER //
+
+CREATE PROCEDURE GET_ALL_TABLES() 
+BEGIN 
+	show TABLES;
+end // 
+
+
+DELIMITER ;
+
+call GET_ALL_TABLES()
+
+drop Procedure `GET_ALL_TABLES`;
