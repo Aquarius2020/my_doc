@@ -1,0 +1,73 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="第 1 页" id="5VgWDR_UXnm7iY8IqlrF">
+    <mxGraphModel dx="254" dy="162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-1" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="118" y="228" width="17" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-2" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="228" width="17" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-3" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="152" y="228" width="17" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-4" value="4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="228" width="17" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-5" value="5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="186" y="228" width="17" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-6" value="6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="203" y="228" width="17" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-7" value="7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="228" width="17" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-8" value="8" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237" y="228" width="17" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-9" value="9" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="228" width="17" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-13" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="126" y="254" width="53" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-14" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="192" y="264" width="36" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-15" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="93" y="274" width="53" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-16" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="82" y="205" as="sourcePoint" />
+            <mxPoint x="162" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-18" value="&lt;font style=&quot;font-size: 4px;&quot;&gt;假设窗口构建的方向是从左向右&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="86" y="183" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-19" value="&lt;font style=&quot;font-size: 4px;&quot;&gt;即窗口的相对位置为 beg -&amp;gt; end&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="86" y="193" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-20" value="&lt;span style=&quot;font-size: 4px;&quot;&gt;窗口 1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105.5" y="245" width="21" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-21" value="&lt;span style=&quot;font-size: 4px;&quot;&gt;窗口 2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="261" width="17" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-22" value="&lt;span style=&quot;font-size: 4px;&quot;&gt;窗口 3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="72" y="272" width="21" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-23" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#97d077&quot; style=&quot;font-size: 4px;&quot;&gt;对于滑动窗口的算法而言，窗口函数属于最简单的固定窗口大小窗口。在 sql 定义时，窗口大小就已经定了&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="181" y="186" width="129" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7J5bTngbIiJtEgKIQ9f-24" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#ff9999&quot; style=&quot;font-size: 4px;&quot;&gt;对于窗口函数而后，每一行会将一个窗口的集合计算为一个新的值，这个窗口在 sql 定义时由 beg 和 end 指定。&lt;/font&gt;&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-size: 4px;&quot;&gt;&lt;font face=&quot;Mtcproa6ipUqF1a_rpAp&quot; color=&quot;#ff9999&quot;&gt;这个区间可以跨当前元素，可以分布在这个元素两端。其实，就是指定一个计算集合，至于这个集合的分布范围，函数没有规定&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;imageWidth=24;arcSize=10;linecap=round;" vertex="1" parent="1">
+          <mxGeometry x="76" y="277" width="234" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
